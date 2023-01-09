@@ -1,0 +1,14 @@
+.bodyBackground 
+{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+   border-width: 13px;
+   background-image: url(BirthdayImage.jpg) ;
+   border-style: groove;
+   border-color: darkslategray;
+}
+
